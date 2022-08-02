@@ -1,0 +1,17 @@
+body {
+    /* background: rgb(0, 0, 0); */
+    /* color: white; */
+}
+
+.my-paragraph {
+    color: green;
+}
+
+#my-id {
+    color: yellow;
+}
+.header-tag{
+    font-size: 100px;
+    font-weight: 900;
+
+}
